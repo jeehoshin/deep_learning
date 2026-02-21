@@ -1,0 +1,20 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+
+# artifacts / outputs
+my_logs/
+keras_parameter_dir/
+untitled_project/
+model/
+figures/
+
+# papers (optional: keep out of git)
+papers/
+
+# model files
+*.h5
+*.pt
+*.pth
+*.ckpt
+*.model
